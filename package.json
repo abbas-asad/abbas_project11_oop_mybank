@@ -1,0 +1,19 @@
+{
+  "name": "abbas_project11_oop_mybank",
+  "version": "1.0.0",
+  "description": "A bank management system following OOP principles, built with TypeScript and Node.js, featuring inquirer for user interactions.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abbas asad",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
